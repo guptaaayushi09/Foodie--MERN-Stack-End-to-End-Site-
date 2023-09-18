@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "originigin"]
+	url = https://github.com/guptaaayushi09/Foodie--MERN-Stack-End-to-End-Site-
+	fetch = +refs/heads/*:refs/remotes/originigin/*
